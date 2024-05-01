@@ -1,5 +1,5 @@
-{ "Gold": { "update_code": "5", "reminder_time": "3", "update_version": "v22", "com.mawhatsapp": "https://gold-app-new.blogspot.com/2022/05/m3whtsp-gold3-apk.html", "com.ma2whatsapp": "https://gold-app-new.blogspot.com/2022/05/m3whtsp-gold3-apk.html", "com.ma3whatsapp": "https://gold-app-new.blogspot.com/2022/05/m3whtsp-gold3-apk.html", "com.ma4whatsapp": "https://gold-app-new.blogspot.com/2022/05/m3whtsp-gold3-apk.html", "update_message": "
-Update Vتحديث 22
+{ "Gold": { "update_code": "5", "reminder_time": "3", "update_version": "v21", "com.mawhatsapp": "https://gold-app-new.blogspot.com/2022/05/m3whtsp-gold3-apk.html", "com.ma2whatsapp": "https://gold-app-new.blogspot.com/2022/05/m3whtsp-gold3-apk.html", "com.ma3whatsapp": "https://gold-app-new.blogspot.com/2022/05/m3whtsp-gold3-apk.html", "com.ma4whatsapp": "https://gold-app-new.blogspot.com/2022/05/m3whtsp-gold3-apk.html", "update_message": "
+Update Vتحديث 21
 
 إضافة خيار لإخفاء اشعار الحالات المحذوفة
 تحسين زر حفظ الحالات
