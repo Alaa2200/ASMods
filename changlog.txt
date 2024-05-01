@@ -1,1 +1,49 @@
-{'ver1':'20', 'ver2':'35', 'ver3':' \n حصريا يمكنك الان معرفة اي شخص يكتب لك رسالة (سواء رقمه مخزن لديك ام غير مخزن) يأتيك اشعار بذلك، تم اعداد الاشعار بحيث ما يكون مزعج للمستخدم(سبام) \n حصريا يمكنك الان تلقي تنبيه عندما يقوم الطرف الاخر بقراءة رسالتك(حدد اي رسالة ثم اختر تنبيه عند القراءة) \n إضافة مجددا خيار ايقونة وضع الليلي/النهاري في الشاشة الرئيسية \nإصلاح اخفاء مشاهدة الحالة من دون علم الطرف الاخر في بعض الاجهزة \nإصلاح البحث في خانة الاتصال \nإصلاح المسافه الفاضيه عند التمرير عند البعض في UI \nإصلاح تعطل عشوائي لشريط الفقاعة السفلية \nإصلاح مشاهدة الميديا عند ارسالها مرة واحدة \nإصلاح انهيارات في بعض الهواتف \nإصلاح مساحة التخزين في إصدارات اندرويد 14 \nإصلاح النسخ الاحتياطي والاستعادة في إصدارات اندرويد 13 وما فوق \nإصلاح اخطاء مباشرة في بعض الاجهزة \nإصلاح تحميل الثيمات في اصدارات اندرويد 14 \n مزيد استمتعوا واكتشفوا الجديد بنفسكم! \n مزيد إصلاحات وتحسينات أخرى \n\n' , 'dli':'https://bit.ly/gold_apps'}
+
+{
+  "Gold": {
+    "update_code": "0",
+    "reminder_time": "3",
+    "update_version": "v21",
+    "com.mawhatsapp": "https://gold-app-new.blogspot.com/2022/05/m3whtsp-gold3-apk.html",
+    "com.ma2whatsapp": "https://gold-app-new.blogspot.com/2022/05/m3whtsp-gold3-apk.html",
+    "com.ma3whatsapp": "https://gold-app-new.blogspot.com/2022/05/m3whtsp-gold3-apk.html",
+    "com.ma4whatsapp": "https://gold-app-new.blogspot.com/2022/05/m3whtsp-gold3-apk.html",
+    "update_message": "
+<p>Update Vتحديث 21</p>
+<li>التحديث لنسخة الماركت 2.23.25.78</li> 
+<li>حصريا إصلاح مشكلة الحظر وحل مشكلة تنبيه يجب استخدام الواتساب الرسمي</li> 
+<li>اضافة ميزة البحث عن الرسائل داخل المحادثة حسب التاريخ والوقت</li> 
+<li>ارسال مقطع صوتي للاستماع لمرة واحدة</li> 
+<li>تفعيل ظهور التاريخ والاسم بشكل تلقائي عند نسخ اكثر من رسالة</li> 
+<li>طريقة جديد لعرض وتطبيق الخطوط</li> 
+<li>خيار الرجوع الى الواجهة الرئيسية القديمة(طلب من المتابعين)</li> 
+<li>اصلاح مشكلةإخفاء صحين القراءة </li> 
+<li>اصلاح الانتقال الى رسالة خاطئة عند التنقل بين الرسائل في اي محادثة</li> 
+<li>اصلاح طلب القفل مرتين في المحادث</li> 
+<li>اصلاح عدم القدرة على فتح الوسائط اذا ارسلت للمشاهدة لمرة واحدة</li> 
+<li>اصلاح إخفاء انك شاهدت الحالة عند تفعيل وضع الشبح</li> 
+<li>اصلاح خيار ظهور النقطة الخضراء في حال اصبح احد ما متصل</li> 
+<li>اصلاح عدم تطبيق الثيم في نافذة الايموجي</li> 
+<li>اصلاح عدم تطبيق الخطوط في بعض الواجهات</li> 
+<li>اصلاح عدم فتح المحادثات المخفية في بعض الاشكال</li>
+
+<li>Base Update: 2.23.25.78</li> 
+<li>[Anti-Ban] Fix SMS/Call Verification</li> 
+<li>Enabled Search in Chat by (Date / Time)</li> 
+<li>Enabled Send voice notes(View Once)</li> 
+<li>Disabled showing Name/Date when copying more than 1 message</li> 
+<li>Added ability to make a call phone with Business accounts</li> 
+<li>Added New style for loading fonts</li> 
+<li>Fixed hide view status when enabling Ghost mod</li> 
+<li>Fixed Anti-view once</li> 
+<li>Fixed hide blue ticks</li> 
+<li>Fixed Hidden chats not opening in some styles</li> 
+<li>Fixed Scrolling in chat screen</li> 
+<li>Fixed asking for open lock twice in chat</li> 
+<li>Fixed Themes not working in Emojis dialog</li> 
+<li>Fixed Green dot in Chats screen</li> 
+<li>Fixed Restore Backup from SD</li> 
+<li>Other fixes</li> " } }
+"
+    }
+}
