@@ -8,7 +8,7 @@
     "com.ma3whatsapp": "https://gold-app-new.blogspot.com/2022/05/m3whtsp-gold3-apk.html",
     "com.ma4whatsapp": "https://gold-app-new.blogspot.com/2022/05/m3whtsp-gold3-apk.html",
     "update_message": "
-<p>Update Vتحديث 21</p>
+<p>Update Vتحديث 22</p>
 <li>التحديث لنسخة الماركت 2.23.25.78</li> 
 <li>حصريا إصلاح مشكلة الحظر وحل مشكلة تنبيه يجب استخدام الواتساب الرسمي</li> 
 <li>اضافة ميزة البحث عن الرسائل داخل المحادثة حسب التاريخ والوقت</li> 
